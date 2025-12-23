@@ -23,7 +23,7 @@ export const HUB_ITEMS: HubItem[] = [
     description: 'Deep dives into high-speed editing, workflow hacks, and professional storytelling.',
     label: 'Visit YouTube',
     icon: 'fa-youtube',
-    href: 'https://youtube.com/@thevishwmitra',
+    href: 'https://www.youtube.com/@VishwmitraShrivastava',
     color: 'hover:border-red-500/50',
     category: 'EDUCATION'
   },
