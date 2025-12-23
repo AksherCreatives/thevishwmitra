@@ -1,0 +1,8 @@
+{
+  "name": "Vishwmitra Video Consulting",
+  "description": "High-end professional portfolio for Vishwmitra Shrivastava, focusing on streamlining media agency video editing workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
